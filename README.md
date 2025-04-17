@@ -4,12 +4,12 @@ This project is a simple content-based movie recommender system built with Pytho
 
 📁 Project Structure
 
-```netflix-recommender/
-│
-├── netflix_titles.csv          # Netflix dataset from Kaggle
-├── netflix_recommender.py      # Command-line version
-├── streamlit_app.py            # Streamlit web app version
-└── README.txt                  # Project guide (you're reading it!)```
+```netflix-recommender/```
+```│```
+```├── netflix_titles.csv          # Netflix dataset from Kaggle```
+```├── netflix_recommender.py      # Command-line version```
+```├── streamlit_app.py            # Streamlit web app version```
+```└── README.txt                  # Project guide (you're reading it!)```
 
 📦 Requirements
 
