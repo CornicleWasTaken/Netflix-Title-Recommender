@@ -30,7 +30,7 @@ Download the dataset from Kaggle:
 
 Run the terminal app:
 
-python netflix_recommender.py
+```python netflix_recommender.py```
 
 Then enter a Netflix movie title when prompted, for example:
 
