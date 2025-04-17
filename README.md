@@ -15,7 +15,7 @@ netflix-recommender/
 
 Install the required libraries using pip:
 
-pip install pandas scikit-learn streamlit
+```pip install pandas scikit-learn streamlit```
 
 📥 Dataset
 
@@ -47,7 +47,7 @@ Top 5 recommendations:
 
 To run the web-based version:
 
-streamlit run streamlit_app.py
+```streamlit run streamlit_app.py```
 
 This will open a browser window with a clean interface where you can enter a movie name and view recommended titles instantly.
 
