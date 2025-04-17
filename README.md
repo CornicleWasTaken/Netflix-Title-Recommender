@@ -3,8 +3,8 @@ Netflix Movie Recommender System
 This project is a simple content-based movie recommender system built with Python. It uses the Netflix dataset to suggest similar movies based on title, cast, genre, director, and description. You can run it in the terminal or as a web app using Streamlit.
 
 📁 Project Structure
-
-```netflix-recommender/
+```
+netflix-recommender/
 │
 ├── netflix_titles.csv          # Netflix dataset from Kaggle
 ├── netflix_recommender.py      # Command-line version
